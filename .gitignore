@@ -1,1 +1,2 @@
-out/production/GuessANumber/Main.class
+*.class
+.idea
